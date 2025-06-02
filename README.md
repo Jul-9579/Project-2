@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jul-9579/Project-2/refs/heads/master/correlation_heatmap_white.png" alt="Wine Quality Project" width="800"/>
+  <img src="https://raw.githubusercontent.com/Jul-9579/wine-quality-project/master/images/wine-banner.jpg" alt="Wine Quality Project Banner" width="800"/>
 </p>
+
 
 # Wine Quality Analysis
 
